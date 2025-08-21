@@ -1,4 +1,6 @@
-Password Generator
+CryptoKey-Gen
+
+
 This is a simple password generator application built using PySimpleGUI. The application allows users to specify the number of uppercase letters, lowercase letters, digits, and symbols to include in the generated password.
 
 Features
